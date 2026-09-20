@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied in quantitative finance, specifically for the purpose of algorithmic trading.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a dedicated merge commit and preserves the individual branch histories, while rebase copies the unique commits from one branch onto the latest state of another branch.
